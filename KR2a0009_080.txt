@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 80
+#+DATE: 2015-08-24 22:19:49.251323
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十
 <pb:KR2a0009_WYG_080-1a>¶
 欽定四庫全書¶
 　後漢書卷八十¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　後漢書巻八十¶
+#+PROPERTY: JUAN 卷八十考證
 <pb:KR2a0009_WYG_080-14a>¶
 　後漢書卷八十考證¶
 陳敬王羡傳徙封為陳王食淮南郡○(臣會汾/)按諸本¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　後漢書巻八十考證¶
-

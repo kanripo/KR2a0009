@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 61
+#+DATE: 2015-08-24 22:19:48.724218
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十一
 <pb:KR2a0009_WYG_061-1a>¶
 欽定四庫全書¶
 　後漢書卷六十一¶
@@ -452,6 +454,7 @@
 　¶
 　¶
 　後漢書卷六十一¶
+#+PROPERTY: JUAN 卷六十一考證
 <pb:KR2a0009_WYG_061-26a>¶
 　後漢書卷六十一考證¶
 杜詩傳造作水排鑄為農器注排當作櫜○櫜字諸本¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　後漢書卷六十一考證¶
-

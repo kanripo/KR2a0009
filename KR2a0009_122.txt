@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 122
+#+DATE: 2015-08-24 22:19:50.417495
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後漢書注補志序
 <pb:KR2a0009_WYG_122-1a>¶
 　後漢書注補志序　　　　　　梁剡令劉昭¶
 臣昭曰昔司馬遷作史記爰建八書班固因廣是曰十¶
@@ -47,4 +49,3 @@
 候祕阻圖緯藏嚴是須甄明每用疑略時或有見頗邀¶
 傍遇非覧正部事乖詳宻今令行禁止此書外絶其有¶
 疏漏諒不足誚¶
-

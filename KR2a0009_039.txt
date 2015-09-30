@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 39
+#+DATE: 2015-08-24 22:19:48.165418
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十九
 <pb:KR2a0009_WYG_039-1a>¶
 欽定四庫全書¶
 　後漢書卷三十九¶
@@ -254,6 +256,7 @@
 二千石以上及使者乃有騑駕云¶
 　¶
 　後漢書卷三十九¶
+#+PROPERTY: JUAN 卷三十九考證
 <pb:KR2a0009_WYG_039-15a>¶
 　後漢書卷三十九考證¶
 輿服志上此諸侯以下之所建者也注其聲名曰和敬¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　後漢書卷三十九考證¶
-

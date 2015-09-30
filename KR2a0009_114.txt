@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 114
+#+DATE: 2015-08-24 22:19:50.054834
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十四
 <pb:KR2a0009_WYG_114-1a>¶
 欽定四庫全書¶
 　後漢書卷一百十四¶
@@ -434,6 +436,7 @@
 　¶
 　¶
 　後漢書巻一百十四¶
+#+PROPERTY: JUAN 卷一百十四考證
 <pb:KR2a0009_WYG_114-25a>¶
 　後漢書卷一百十四考證¶
 曹世叔妻傳又詔融兄續繼昭成之○何焯曰司馬彪¶
@@ -470,4 +473,3 @@
 　¶
 　¶
 　後漢書卷一百十四考證¶
-

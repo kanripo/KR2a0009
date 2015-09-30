@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 124
+#+DATE: 2015-08-24 22:19:50.452464
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [考證跋語]
 <pb:KR2a0009_WYG_124-1a>¶
 　　原任詹事(臣浩/)謹言按范氏後漢書隋志云九十¶
 　　七卷唐志云九十二卷論賛五卷今論賛附於紀¶
@@ -35,4 +37,3 @@
 　　臣詳審校勘録為後漢書考證若干條汲深而後¶
 　　知綆之短掃迅而後知葉之多為悚為慚㒺知所¶
 　　措(臣/)謹識¶
-

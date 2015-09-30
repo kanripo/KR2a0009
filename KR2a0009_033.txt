@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 33
+#+DATE: 2015-08-24 22:19:48.069167
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十三
 <pb:KR2a0009_WYG_033-1a>¶
 欽定四庫全書¶
 　後漢書卷三十三¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　後漢書卷三十三¶
+#+PROPERTY: JUAN 卷三十三考證
 <pb:KR2a0009_WYG_033-24a>¶
 　後漢書卷三十三考證¶
 郡國志五巴郡注建安六年劉綽分巴○(臣召南/)按劉¶
@@ -506,4 +509,3 @@
 　¶
 　¶
 　後漢書卷三十三考證¶
-

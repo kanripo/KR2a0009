@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:19:47.638622
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR2a0009_WYG_015-1a>¶
 欽定四庫全書¶
 　後漢書卷十五¶
@@ -272,4 +274,3 @@
 　¶
 　¶
 　後漢書卷十五¶
-

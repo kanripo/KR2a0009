@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 102
+#+DATE: 2015-08-24 22:19:49.759004
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百二
 <pb:KR2a0009_WYG_102-1a>¶
 欽定四庫全書¶
 　後漢書卷一百二¶
@@ -506,6 +508,7 @@
 　¶
 　¶
 　後漢書卷一百二¶
+#+PROPERTY: JUAN 卷一百二考證
 <pb:KR2a0009_WYG_102-29a>¶
 　後漢書卷一百二考證¶
 董卓傳朝廷不能制○制字監本誤作爾從宋本改¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　後漢書卷一百二考證¶
-

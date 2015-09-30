@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:19:47.711834
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR2a0009_WYG_019-1a>¶
 欽定四庫全書¶
 　後漢書卷十九¶
@@ -272,6 +274,7 @@
 　¶
 　¶
 　後漢書卷十九¶
+#+PROPERTY: JUAN 卷十九考證
 <pb:KR2a0009_WYG_019-16a>¶
 　後漢書卷十九考證¶
 祭祀志下語在章紀注謝沈書曰大雅曰昭哉來御愼¶
@@ -290,4 +293,3 @@
 　¶
 　¶
 　後漢書卷十九考證¶
-

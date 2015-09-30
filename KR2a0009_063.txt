@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 63
+#+DATE: 2015-08-24 22:19:48.759245
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十三
 <pb:KR2a0009_WYG_063-1a>¶
 欽定四庫全書¶
 　後漢書卷六十三¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　後漢書卷六十三¶
+#+PROPERTY: JUAN 卷六十三考證
 <pb:KR2a0009_WYG_063-23a>¶
 　後漢書卷六十三考證¶
 朱浮傳封舞陽侯○監本作武陽宋本作舞陽(臣㑹汾/)¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　後漢書卷六十三考證¶
-

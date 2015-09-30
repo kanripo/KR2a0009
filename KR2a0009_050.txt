@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 50
+#+DATE: 2015-08-24 22:19:48.437690
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十
 <pb:KR2a0009_WYG_050-1a>¶
 欽定四庫全書¶
 　後漢書卷五十¶
@@ -308,6 +310,7 @@
 左邊庭懷和¶
 　¶
 　後漢書卷五十¶
+#+PROPERTY: JUAN 卷五十考證
 <pb:KR2a0009_WYG_050-18a>¶
 　後漢書卷五十考證¶
 王霸傳乃令霸䕶度注堅䕶度也○堅當作監謂使霸¶
@@ -326,4 +329,3 @@
 　¶
 　¶
 　後漢書卷五十考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 57
+#+DATE: 2015-08-24 22:19:48.607400
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十七
 <pb:KR2a0009_WYG_057-1a>¶
 欽定四庫全書¶
 　後漢書卷五十七¶
@@ -398,6 +400,7 @@
 　¶
 　¶
 　後漢書卷五十七¶
+#+PROPERTY: JUAN 卷五十七考證
 <pb:KR2a0009_WYG_057-23a>¶
 　後漢書卷五十七考證¶
 吳良傳私慕公叔同升之義注公叔文子衛大夫公孫¶
@@ -416,4 +419,3 @@
 　¶
 　¶
 　後漢書卷五十七考證¶
-

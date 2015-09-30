@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 92
+#+DATE: 2015-08-24 22:19:49.526721
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十二
 <pb:KR2a0009_WYG_092-1a>¶
 欽定四庫全書¶
 　後漢書卷九十二¶
@@ -380,6 +382,7 @@
 　¶
 　¶
 　後漢書巻九十二¶
+#+PROPERTY: JUAN 卷九十二考證
 <pb:KR2a0009_WYG_092-22a>¶
 　後漢書卷九十二考證¶
 荀淑傳後再遷當塗長注當塗縣名故城在今宣州○¶
@@ -416,4 +419,3 @@
 　¶
 　¶
 　後漢書巻九十二考證¶
-

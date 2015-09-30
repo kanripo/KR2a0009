@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 78
+#+DATE: 2015-08-24 22:19:49.196850
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十八
 <pb:KR2a0009_WYG_078-1a>¶
 欽定四庫全書¶
 　後漢書卷七十八¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　後漢書巻七十八¶
+#+PROPERTY: JUAN 卷七十八考證
 <pb:KR2a0009_WYG_078-28a>¶
 　後漢書卷七十八考證¶
 楊終傳善善及子孫惡惡止其身注曹公孫㑹自鄸出¶
@@ -524,4 +527,3 @@
 　¶
 　¶
 　後漢書巻七十八考證¶
-

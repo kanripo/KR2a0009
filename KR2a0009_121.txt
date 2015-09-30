@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 121
+#+DATE: 2015-08-24 22:19:50.336253
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 自序
 <pb:KR2a0009_WYG_121-1a>¶
 自序　　　　　　　　　　宋宣城太守范曄¶
 吾少嬾學問晩成人年三十許政始有向耳自爾以來¶
@@ -43,4 +45,3 @@
 態無極亦嘗以授人士庶中未有一毫似者此永不傳¶
 矣吾書雖小小有意筆勢不快餘竟不成就每愧此名¶
 (沈約云曄自序/並實故存之)¶
-

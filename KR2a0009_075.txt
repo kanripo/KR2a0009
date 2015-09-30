@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 75
+#+DATE: 2015-08-24 22:19:49.127701
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七十五
 <pb:KR2a0009_WYG_075-1a>¶
 欽定四庫全書¶
 　後漢書卷七十五¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　後漢書卷七十五¶
+#+PROPERTY: JUAN 卷七十五考證
 <pb:KR2a0009_WYG_075-24a>¶
 　後漢書卷七十五考證¶
 袁安傳後舉孝廉注洛陽令自出案行見人家皆除雪¶
@@ -434,4 +437,3 @@
 　或言予告歸或言賜告歸此處去官下不得更言賜¶
 　歸從宋本改¶
 　後漢書卷七十五考證¶
-

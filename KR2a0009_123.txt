@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 123
+#+DATE: 2015-08-24 22:19:50.432238
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [景祐刋正箚子]
 <pb:KR2a0009_WYG_123-1a>¶
 景祐元年九月祕書丞余靖上言國子監所印兩漢書¶
 文字舛譌恐誤後學臣謹參括衆本旁據他書列而辯¶
@@ -27,4 +29,3 @@
 詔付祕書省傳之至今靖洙悉取館閣諸本參校二年¶
 九月校畢凡増五百一十二字損一百四十三字改正¶
 四百一十一字¶
-

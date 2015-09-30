@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 89
+#+DATE: 2015-08-24 22:19:49.454200
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十九
 <pb:KR2a0009_WYG_089-1a>¶
 欽定四庫全書¶
 　後漢書卷八十九¶
@@ -704,6 +706,7 @@
 　¶
 　¶
 　後漢書卷八十九¶
+#+PROPERTY: JUAN 卷八十九考證
 <pb:KR2a0009_WYG_089-40a>¶
 　後漢書卷八十九考證¶
 張衡傳雖老氏曲全進道若退然行亦以需○舊本或¶
@@ -722,4 +725,3 @@
 　¶
 　¶
 　後漢書卷八十九考證¶
-

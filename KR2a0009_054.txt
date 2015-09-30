@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 54
+#+DATE: 2015-08-24 22:19:48.540925
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十四
 <pb:KR2a0009_WYG_054-1a>¶
 欽定四庫全書¶
 　後漢書卷五十四¶
@@ -614,6 +616,7 @@
 　¶
 　¶
 　後漢書卷五十四¶
+#+PROPERTY: JUAN 卷五十四考證
 <pb:KR2a0009_WYG_054-35a>¶
 　後漢書卷五十四考證¶
 馬援傳援三兄况余員注况字君平○一本作字長平¶
@@ -632,4 +635,3 @@
 　¶
 　¶
 　後漢書卷五十四考證¶
-

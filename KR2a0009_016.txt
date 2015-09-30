@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:19:47.654727
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR2a0009_WYG_016-1a>¶
 欽定四庫全書¶
 　後漢書卷十六¶
@@ -254,6 +256,7 @@
 　¶
 　¶
 　後漢書卷十六¶
+#+PROPERTY: JUAN 卷十六考證
 <pb:KR2a0009_WYG_016-15a>¶
 　後漢書卷十六考證¶
 禮儀志下備三爵如禮注蔡質漢儀曰十二陵今見在¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　後漢書卷十六考證¶
-

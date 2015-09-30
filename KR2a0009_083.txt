@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 83
+#+DATE: 2015-08-24 22:19:49.307006
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十三
 <pb:KR2a0009_WYG_083-1a>¶
 欽定四庫全書¶
 　後漢書卷八十三¶
@@ -254,6 +256,7 @@
 　¶
 　¶
 　後漢書卷八十三¶
+#+PROPERTY: JUAN 卷八十三考證
 <pb:KR2a0009_WYG_083-15a>¶
 　後漢書卷八十三考證¶
 周燮傳決曹掾燕之後也○決字監本作法(臣㑹汾/)按¶
@@ -290,4 +293,3 @@
 　¶
 　¶
 　後漢書卷八十三考證¶
-

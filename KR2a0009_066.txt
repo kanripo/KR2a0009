@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 66
+#+DATE: 2015-08-24 22:19:48.810950
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十六
 <pb:KR2a0009_WYG_066-1a>¶
 欽定四庫全書¶
 　後漢書卷六十六¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　後漢書卷六十六¶
+#+PROPERTY: JUAN 卷六十六考證
 <pb:KR2a0009_WYG_066-28a>¶
 　後漢書卷六十六考證¶
 鄭興傳一朝建號而山西雄桀争誅王莽注山西謂陕¶
@@ -542,4 +545,3 @@
 　¶
 　¶
 　後漢書卷六十六考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:19:47.862417
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR2a0009_WYG_021-1a>¶
 欽定四庫全書¶
 　後漢書卷二十一¶
@@ -362,6 +364,7 @@
 惑為逆謀閏月一日孝質帝為梁冀所鴆崩¶
 　¶
 　後漢書卷二十一¶
+#+PROPERTY: JUAN 卷二十一考證
 <pb:KR2a0009_WYG_021-21a>¶
 　後漢書卷二十一考證¶
 天文志中攻蕉唐城○(臣召南/)按文當作嶲唐城嶲唐¶
@@ -380,4 +383,3 @@
 　¶
 　¶
 　後漢書卷二十一考證¶
-

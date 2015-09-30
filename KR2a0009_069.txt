@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 69
+#+DATE: 2015-08-24 22:19:48.877778
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十九
 <pb:KR2a0009_WYG_069-1a>¶
 欽定四庫全書¶
 　後漢書卷六十九¶
@@ -452,6 +454,7 @@
 　¶
 　¶
 　後漢書卷六十九¶
+#+PROPERTY: JUAN 卷六十九考證
 <pb:KR2a0009_WYG_069-26a>¶
 　後漢書卷六十九考證¶
 劉平傳楚郡彭城人也○諸本同(臣㑹汾/)按彭城屬楚¶
@@ -470,4 +473,3 @@
 倀能說其經書而用心褊狭○(臣㑹汾/)按其字衍當去¶
 　¶
 　後漢書卷六十九考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 111
+#+DATE: 2015-08-24 22:19:49.984653
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十一
 <pb:KR2a0009_WYG_111-1a>¶
 欽定四庫全書¶
 　後漢書卷一百十一¶
@@ -596,6 +598,7 @@
 　¶
 　¶
 　後漢書卷一百十一¶
+#+PROPERTY: JUAN 卷一百十一考證
 <pb:KR2a0009_WYG_111-34a>¶
 　後漢書卷一百十一考證¶
 張武傳張武者吳郡由拳人也太守第五倫嘉其行○¶
@@ -614,4 +617,3 @@
 　¶
 　¶
 　後漢書卷一百十一考證¶
-

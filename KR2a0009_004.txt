@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:19:47.398899
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR2a0009_WYG_004-1a>¶
 欽定四庫全書¶
 　後漢書卷四¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　後漢書卷四¶
+#+PROPERTY: JUAN 卷四考證
 <pb:KR2a0009_WYG_004-28a>¶
 　後漢書卷四考證¶
 和帝紀追至河渠北鞮海○何焯云竇憲傳及通鑑皆¶
@@ -506,4 +509,3 @@
 　¶
 　¶
 　後漢書卷四考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 116
+#+DATE: 2015-08-24 22:19:50.095429
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百十六
 <pb:KR2a0009_WYG_116-1a>¶
 欽定四庫全書¶
 　後漢書卷一百十六¶
@@ -614,6 +616,7 @@
 化既孚改襟輸寶(孚信也/襟袵也)俾建永昌同編億兆¶
 　¶
 　後漢書卷一百十六¶
+#+PROPERTY: JUAN 卷一百十六考證
 <pb:KR2a0009_WYG_116-35a>¶
 　後漢書卷一百十六考證¶
 南蠻傳有能得犬戎之將吳將軍頭者○(臣德潛/)按吳¶
@@ -632,4 +635,3 @@
 　¶
 　¶
 　後漢書卷一百十六考證¶
-

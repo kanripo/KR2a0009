@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 105
+#+DATE: 2015-08-24 22:19:49.838717
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百五
 <pb:KR2a0009_WYG_105-1a>¶
 欽定四庫全書¶
 　後漢書卷一百五¶
@@ -398,6 +400,7 @@
 贊曰焉作庸牧以希後福(王莽改益/州曰庸部)曷云負荷地墮身¶
 逐術既叨貪布亦飜覆¶
 　後漢書卷一百五¶
+#+PROPERTY: JUAN 卷一百五考證
 <pb:KR2a0009_WYG_105-23a>¶
 　後漢書卷一百五考證¶
 劉焉傳焉遣叟兵五千助之注漢世謂蜀為叟孔安國¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　後漢書卷一百五考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 108
+#+DATE: 2015-08-24 22:19:49.908743
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百八
 <pb:KR2a0009_WYG_108-1a>¶
 欽定四庫全書¶
 　後漢書卷一百八¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　後漢書卷一百八¶
+#+PROPERTY: JUAN 卷一百八考證
 <pb:KR2a0009_WYG_108-33a>¶
 　後漢書卷一百八考證¶
 宦者傳寺人掌女宫之戒○句下依宋本添注十八字¶
@@ -596,4 +599,3 @@
 乃與少子疾避亂琅邪○魏志嵩少子德¶
 張讓傳黜為關中侯○何焯校本中改内¶
 　後漢書卷一百八考證¶
-

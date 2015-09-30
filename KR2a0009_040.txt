@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 40
+#+DATE: 2015-08-24 22:19:48.179156
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四十
 <pb:KR2a0009_WYG_040-1a>¶
 欽定四庫全書¶
 　後漢書卷四十¶
@@ -326,6 +328,7 @@
 　¶
 　¶
 　後漢書卷四十¶
+#+PROPERTY: JUAN 卷四十考證
 <pb:KR2a0009_WYG_040-19a>¶
 　後漢書卷四十考證¶
 輿服志下冠角&KR0971;胡之制○&KR0971;監本譌作&KR0008;依宋本改¶
@@ -344,4 +347,3 @@
 　¶
 　¶
 　後漢書卷四十考證¶
-

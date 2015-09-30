@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 107
+#+DATE: 2015-08-24 22:19:49.881183
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百七
 <pb:KR2a0009_WYG_107-1a>¶
 欽定四庫全書¶
 　後漢書卷一百七¶
@@ -308,6 +310,7 @@
 　¶
 　¶
 　後漢書巻一百七¶
+#+PROPERTY: JUAN 卷一百七考證
 <pb:KR2a0009_WYG_107-18a>¶
 　後漢書卷一百七考證¶
 酷吏傳若其揣挫彊勢○揣疑惴¶
@@ -326,4 +329,3 @@
 　¶
 　¶
 　後漢書卷一百七考證¶
-

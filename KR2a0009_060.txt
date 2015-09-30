@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 60
+#+DATE: 2015-08-24 22:19:48.691361
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六十上
 <pb:KR2a0009_WYG_060-1a>¶
 欽定四庫全書¶
 　後漢書卷六十上¶
@@ -164,6 +166,7 @@
 　¶
 　¶
 　後漢書卷六十上¶
+#+PROPERTY: JUAN 卷六十上考證
 <pb:KR2a0009_WYG_060-10a>¶
 　後漢書卷六十上考證¶
 蘇竟傳夫仲夏甲寅為八魁注冬三月甲寅壬戌○監¶
@@ -182,6 +185,7 @@
 　¶
 　¶
 　後漢書卷六十上考證¶
+#+PROPERTY: JUAN 卷六十下
 <pb:KR2a0009_WYG_060-11a>¶
 欽定四庫全書¶
 　後漢書卷六十下¶
@@ -740,4 +744,3 @@
 　¶
 　¶
 　後漢書卷六十下¶
-

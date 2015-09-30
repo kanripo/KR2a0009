@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 87
+#+DATE: 2015-08-24 22:19:49.407176
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十七
 <pb:KR2a0009_WYG_087-1a>¶
 欽定四庫全書¶
 　後漢書卷八十七¶
@@ -416,6 +418,7 @@
 　¶
 　¶
 　後漢書卷八十七¶
+#+PROPERTY: JUAN 卷八十七考證
 <pb:KR2a0009_WYG_087-24a>¶
 　後漢書卷八十七考證¶
 欒巴傳白上乞退○白上二字舊本作自下¶
@@ -434,4 +437,3 @@
 　¶
 　¶
 　後漢書八十七考證¶
-

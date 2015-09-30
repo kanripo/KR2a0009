@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 100
+#+DATE: 2015-08-24 22:19:49.703160
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百
 <pb:KR2a0009_WYG_100-1a>¶
 欽定四庫全書¶
 　後漢書卷一百¶
@@ -596,6 +598,7 @@
 之有弼誠感國疾功申運改迹疑心一(迹若可疑/心如一也)¶
 　¶
 　後漢書卷一百¶
+#+PROPERTY: JUAN 卷一百考證
 <pb:KR2a0009_WYG_100-34a>¶
 　後漢書卷一百考證¶
 孔融傳拜中軍候○刋誤補遺曰郭仲竒碑額云北軍¶
@@ -614,4 +617,3 @@
 　¶
 　¶
 　後漢書卷一百考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:34
-#+PROPERTY: JUAN 30
+#+DATE: 2015-08-24 22:19:48.022393
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三十
 <pb:KR2a0009_WYG_030-1a>¶
 欽定四庫全書¶
 　後漢書卷三十¶
@@ -236,6 +238,7 @@
 　¶
 　¶
 　後漢書卷三十¶
+#+PROPERTY: JUAN 卷三十考證
 <pb:KR2a0009_WYG_030-14a>¶
 　後漢書卷三十考證¶
 郡國志二楊翟有雍氏城注史記齊湣王十二年攻魏¶
@@ -272,4 +275,3 @@
 　¶
 　¶
 　後漢書卷三十考證¶
-

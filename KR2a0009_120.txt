@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 120
+#+DATE: 2015-08-24 22:19:50.209782
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百二十
 <pb:KR2a0009_WYG_120-1a>¶
 欽定四庫全書¶
 　後漢書卷一百二十¶
@@ -326,6 +328,7 @@
 　¶
 　¶
 　後漢書卷一百二十¶
+#+PROPERTY: JUAN 卷一百二十考證
 <pb:KR2a0009_WYG_120-19a>¶
 　後漢書卷一百二十考證¶
 鮮卑傳野馬原羊○何焯校本原改羱¶
@@ -344,4 +347,3 @@
 　¶
 　¶
 　後漢書卷一百二十考證¶
-

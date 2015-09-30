@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 106
+#+DATE: 2015-08-24 22:19:49.857341
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一百六
 <pb:KR2a0009_WYG_106-1a>¶
 欽定四庫全書¶
 　後漢書卷一百六¶
@@ -470,6 +472,7 @@
 　¶
 　¶
 　後漢書卷一百六¶
+#+PROPERTY: JUAN 卷一百六考證
 <pb:KR2a0009_WYG_106-27a>¶
 　後漢書卷一百六考證¶
 王景傳集為大衍𤣥基云○為字監本作於依宋本改¶
@@ -488,4 +491,3 @@
 　¶
 　¶
 　後漢書卷一百六考證¶
-

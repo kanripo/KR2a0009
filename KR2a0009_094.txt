@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 94
+#+DATE: 2015-08-24 22:19:49.584530
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十四
 <pb:KR2a0009_WYG_094-1a>¶
 欽定四庫全書¶
 　後漢書卷九十四¶
@@ -452,6 +454,7 @@
 　¶
 　¶
 　後漢書卷九十四¶
+#+PROPERTY: JUAN 卷九十四考證
 <pb:KR2a0009_WYG_094-26a>¶
 　後漢書卷九十四考證¶
 吳祐傳踰越五領注裴氏廣川記○諸本同川當作州¶
@@ -470,4 +473,3 @@
 　子從毛本改¶
 娶扶風馬融兄女注三輔決録注曰○注本或作志誤¶
 　後漢書卷九十四考證¶
-

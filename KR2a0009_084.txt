@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 後漢書
-#+DATE: 2015-09-23 09:41:35
-#+PROPERTY: JUAN 84
+#+DATE: 2015-08-24 22:19:49.327481
+#+PROPERTY: ID KR2a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八十四
 <pb:KR2a0009_WYG_084-1a>¶
 欽定四庫全書¶
 　後漢書卷八十四¶
@@ -578,6 +580,7 @@
 　¶
 　¶
 　後漢書巻八十四¶
+#+PROPERTY: JUAN 卷八十四考燈
 <pb:KR2a0009_WYG_084-33a>¶
 　後漢書卷八十四考證¶
 楊震傳八世祖喜髙祖敞○何焯曰前書楊敞不云是¶
@@ -614,4 +617,3 @@
 　¶
 　¶
 　後漢書卷八十四考證¶
-
